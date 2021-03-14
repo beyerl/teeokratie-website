@@ -1,0 +1,20 @@
+// Define variable defaults
+$primary: #90B186;
+$secondary: #72BEE8;
+$info: #597D4F;
+$gray-600: #7C8684;
+$black: #222;
+$light: $gray-600;
+$dark: $black;
+
+$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Open Sans", "Roboto", "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+$font-family-monospace:       "VT323", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-base:            $font-family-sans-serif !default;
+
+// Then import Bootstrap an BootstrapVue SCSS files (order is important)
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+.text-justify {
+    text-align: justify;
+}
