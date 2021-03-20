@@ -18,16 +18,16 @@
     <div class="container" id="scrollTop">
         <div class="text-center h1 text-monospace">Willkommen</div>
         <p class="text-justify">
-Teeokratie ist ein Retro-Point and Click Adventure, gespickt mitschrägem Humor und mannigfaltigen Anspielungen. Indem Du die rebellische Teesa spielst, die von Ihrem Vater genötigt wurde, im Kloster der Teeisten als Schwester zu dienen. Don Kamille, der Hohepriester dieser Institution, strebt unter dem Banner der Teeokratie an , einen Gottesstaat zu errichten. Unterstützt Du Ihn da bei oder hilfst Du doch lieber den demokatisch orientierten Essenziallisten, die statt Tee die Aufnahme von Nahrungsmitteln bevorzugen? In Kapitel 1, dass jetzt als kostenlose Public Beta zur Verfügung steht, legst Du erst mal Deine Abschlussprüfung als Klosterschwester ab. Steig direkt ein:         </p>
+Teeokratie ist ein Retro-Point and Click Adventure, gespickt mit schrägem Humor und mannigfaltigen Anspielungen. Indem Du die rebellische Teesa spielst, die von Ihrem Vater genötigt wurde, im Kloster der Teeisten als Schwester zu dienen. Don Kamille, der Hohepriester dieser Institution, strebt unter dem Banner der Teeokratie an , einen Gottesstaat zu errichten. Unterstützt Du Ihn da bei oder hilfst Du doch lieber den demokatisch orientierten Essenziallisten, die statt Tee die Aufnahme von Nahrungsmitteln bevorzugen? In Kapitel 1, dass jetzt als kostenlose Public Beta zur Verfügung steht, legst Du erst mal Deine Abschlussprüfung als Klosterschwester ab. Steig direkt ein:         </p>
         <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
             <img src="../assets/play-outline.svg" class="mr-2" height="16"/>
             Online spielen
         </b-button>
-        <b-button block variant="dark" href="../assets/downloads/teeokratie-windows.zip">
+        <b-button block variant="dark" href="https://beyerl.github.io/teeokratie-website/downloads/teeokratie-windows.zip">
             <img src="../assets/desktop-outline.svg" class="mr-2" height="16"/>
             Für Windows herunterladen
             </b-button>
-        <b-button block variant="dark" href="../assets/downloads/teeokratie.apk">
+        <b-button block variant="dark" href="https://beyerl.github.io/teeokratie-website/downloads/teeokratie.apk">
              <img src="../assets/android.svg" class="mr-2" height="16"/>
             Für Android herunterladen
             </b-button>
