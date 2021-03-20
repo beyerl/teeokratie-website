@@ -1,7 +1,7 @@
 <template>
 <div>
     <Header></Header>
-    <Vote></Vote>
+    <!-- <Vote></Vote> -->
     <Footer></Footer>
 </div>
 </template>

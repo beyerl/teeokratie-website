@@ -20,15 +20,15 @@
         <p class="text-justify">
             Bavaria ipsum dolor sit amet hogg di hera owe a bissal wos gehd ollaweil, Graudwiggal in da greana Au! Hoggd heid gfoids ma sagrisch guad Trachtnhuat Haberertanz Semmlkneedl. Des is a gmahde Wiesn ded Haferl du dadst ma scho daugn i sog ja nix, i red ja bloß, pfiad de etza hogg ma uns zamm Guglhupf back mas!
         </p>
-        <b-button block variant="dark">
+        <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
             <img src="../assets/play-outline.svg" class="mr-2" height="16"/>
             Online spielen
         </b-button>
-        <b-button block variant="dark">
+        <b-button block variant="dark" href="../assets/downloads/teeokratie-windows.zip">
             <img src="../assets/desktop-outline.svg" class="mr-2" height="16"/>
             Für Windows herunterladen
             </b-button>
-        <b-button block variant="dark">
+        <b-button block variant="dark" href="../assets/downloads/teeokratie.apk">
              <img src="../assets/android.svg" class="mr-2" height="16"/>
             Für Android herunterladen
             </b-button>
