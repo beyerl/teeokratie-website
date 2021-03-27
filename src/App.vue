@@ -7,6 +7,9 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 import Home from './components/Home.vue'
+import { rtdbPlugin } from 'vuefire'
+
+Vue.use(rtdbPlugin)
 
 @Component({
   components: {

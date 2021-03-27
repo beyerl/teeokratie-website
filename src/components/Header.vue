@@ -18,7 +18,9 @@
     <div class="container" id="scrollTop">
         <div class="text-center h1 text-monospace">Willkommen</div>
         <p class="text-justify">
-Teesa ist nicht so recht glücklich mit ihrem Leben im Teeisten-Kloster: Ihr Chef Don Kamille möchte eine Teeokratie errichten und sicherstellen, dass niemand mehr etwas anderes als Tee zu sich nimmt. Außerdem scheint er fest entschlossen, Ihre Abschlussprüfung zu sabotieren, die sogenannte Literertour. Na dem wird Sie es schon zeigen! Schlüpfe in Teesas Rolle und klicke Dich in klassischer Retro-Point and Click Adventure-Grafik durch schräge Witze und skurile Rätsel. Steig direkt ein:         <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
+            Teesa ist nicht so recht glücklich mit ihrem Leben im Teeisten-Kloster: Ihr Chef Don Kamille möchte eine Teeokratie errichten und sicherstellen, dass niemand mehr etwas anderes als Tee zu sich nimmt. Außerdem scheint er fest entschlossen, Ihre Abschlussprüfung zu sabotieren, die sogenannte Literertour. Na, dem wird Sie es schon zeigen! Schlüpfe in Teesas Rolle und klicke Dich in klassischer Retro-Point-and-Click-Adventure-Grafik durch schräge Witze und skurile Rätsel. Steig direkt ein:
+        </p>
+        <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
             <img src="../assets/play-outline.svg" class="mr-2" height="16"/>
             Online spielen
         </b-button>
@@ -41,6 +43,7 @@ import { Component, Vue } from 'vue-property-decorator'
 export default class Header extends Vue {
   onArrowButtonClick () {
     const result = document.getElementById('scrollTop')?.scrollIntoView({ behavior: 'smooth' })
+    console.log(result)
   }
 }
 </script>
