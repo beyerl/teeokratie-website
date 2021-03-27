@@ -18,8 +18,7 @@
     <div class="container" id="scrollTop">
         <div class="text-center h1 text-monospace">Willkommen</div>
         <p class="text-justify">
-Teeokratie ist ein Retro-Point and Click Adventure, gespickt mit schrägem Humor und mannigfaltigen Anspielungen. Indem Du die rebellische Teesa spielst, die von Ihrem Vater genötigt wurde, im Kloster der Teeisten als Schwester zu dienen. Don Kamille, der Hohepriester dieser Institution, strebt unter dem Banner der Teeokratie an , einen Gottesstaat zu errichten. Unterstützt Du Ihn da bei oder hilfst Du doch lieber den demokatisch orientierten Essenziallisten, die statt Tee die Aufnahme von Nahrungsmitteln bevorzugen? In Kapitel 1, dass jetzt als kostenlose Public Beta zur Verfügung steht, legst Du erst mal Deine Abschlussprüfung als Klosterschwester ab. Steig direkt ein:         </p>
-        <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
+Teesa ist nicht so recht glücklich mit ihrem Leben im Teeisten-Kloster: Ihr Chef Don Kamille möchte eine Teeokratie errichten und sicherstellen, dass niemand mehr etwas anderes als Tee zu sich nimmt. Außerdem scheint er fest entschlossen, Ihre Abschlussprüfung zu sabotieren, die sogenannte Literertour. Na dem wird Sie es schon zeigen! Schlüpfe in Teesas Rolle und klicke Dich in klassischer Retro-Point and Click Adventure-Grafik durch schräge Witze und skurile Rätsel. Steig direkt ein:         <b-button block variant="dark" href="https://beyerl.github.io/teeokratie/" target="_blank">
             <img src="../assets/play-outline.svg" class="mr-2" height="16"/>
             Online spielen
         </b-button>
