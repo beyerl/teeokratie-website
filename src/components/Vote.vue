@@ -36,7 +36,7 @@
           ></b-form-input>
         </b-form-group>
       </div>
-      <b-button type="submit" block variant="info" class="col-12">Absenden</b-button>
+        <b-button type="submit" block variant="info" class="col-12">Absenden</b-button>
     </b-form>
     <div v-else>
       Danke, Du hast erfolgreich abgestimmt!
